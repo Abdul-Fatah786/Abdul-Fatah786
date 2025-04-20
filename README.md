@@ -1,24 +1,60 @@
-<h1 align="center">Hi 👋, I'm Abdul Fatah</h1>
-<h3 align="center">Passionate MERN Developer interested in Backend</h3>
+# [Abdul Fatah's LinkedIn](https://www.linkedin.com/in/abdul-fatah-97902535a/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-fatah786&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-fatah786" /> </p>
+## Hi, I am Abdul Fata
+- 🚀 Passionate about **open source** and **development**  
+- 🌐 Skilled in **Full-Stack Web Development**  
+- 🏆 Proud to have **won bounties on open-source contributions**,
+- showcasing my ability to solve real-world problems and collaborate with the global developer community  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-fatah786" alt="abdul-fatah786" /></a> </p>
+## How to reach me:  
+📧 **fatahburiro@gmail.com**
 
-- 🌱 I’m currently learning **NestJs and GraphQL**
 
-- 💬 Ask me about **Node JS and backend technologies**
+### Frontend
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
-- 📫 How to reach me **fatahburiro66@gmail.com**
+### Backend and Databases
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=graphql" alt="Apollo GraphQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulfatah71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulfatah71/" height="30" width="40" /></a>
-</p>
+### DevOps & Cloud Champion
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Code Sorcery
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-fatah786&show_icons=true&locale=en&layout=compact" alt="abdul-fatah786" /></p>
+### Tools & Operating Systems
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-fatah786&" alt="abdul-fatah786" /></p>
