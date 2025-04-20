@@ -9,6 +9,7 @@
 ## How to reach me:  
 📧 **fatahburiro@gmail.com**
 
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 ### Frontend
 <div style="display: flex; flex-direction: row; align-items: center;">
