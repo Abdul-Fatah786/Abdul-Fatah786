@@ -1,6 +1,6 @@
 # [Abdul Fatah's LinkedIn](https://www.linkedin.com/in/abdul-fatah-97902535a/)
 
-## Hi, I am Abdul Fata
+## Hi, I am Abdul Fatah
 - 🚀 Passionate about **open source** and **development**  
 - 🌐 Skilled in **Full-Stack Web Development**  
 - 🏆 Proud to have **won bounties on open-source contributions**,
@@ -57,4 +57,7 @@
   <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-fatah786&" alt="abdul-fatah786" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-fatah786&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="abdul-fatah786" />
+</p>
+
