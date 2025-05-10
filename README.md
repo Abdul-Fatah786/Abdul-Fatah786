@@ -7,7 +7,7 @@
 - showcasing my ability to solve real-world problems and collaborate with the global developer community  
 
 ## How to reach me:  
-📧 **fatahburiro@gmail.com**
+📧 **fatahburiro66@gmail.com**
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
