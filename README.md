@@ -1,5 +1,7 @@
 <p align="center">
-# [Abdul Fatah's LinkedIn](https://www.linkedin.com/in/abdul-fatah-97902535a/)
+  <a href="https://www.linkedin.com/in/abdul-fatah-97902535a/" target="_blank" style="color:#0A66C2; text-decoration:none; font-weight:bold;">
+    🔗 Abdul Fatah's LinkedIn
+  </a>
 </p>
  <hr></hr>
 <p align="center">
