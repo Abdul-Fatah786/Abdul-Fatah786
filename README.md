@@ -1,4 +1,6 @@
+<p align="center">
 # [Abdul Fatah's LinkedIn](https://www.linkedin.com/in/abdul-fatah-97902535a/)
+</p>
  <hr></hr>
 <p align="center">
   <samp>
