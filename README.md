@@ -1,15 +1,16 @@
 # [Abdul Fatah's LinkedIn](https://www.linkedin.com/in/abdul-fatah-97902535a/)
-
-## Hi, I am Abdul Fatah
-- 🚀 Passionate about **open source** and **development**  
-- 🌐 Skilled in **Full-Stack Web Development**  
-- 🏆 Proud to have **won bounties on open-source contributions**,
-- showcasing my ability to solve real-world problems and collaborate with the global developer community  
-
-## How to reach me:  
-📧 **fatahburiro66@gmail.com**
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Abdul Fatah! 👋 <br>
+    🔥 Software Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: JavaScript, React, Typescript,Node, ... <br>
+    :email:	fatahburiro66@gmail.com <br> 
+    Twitter: https://x.com/AbdulFa11955167<br>
+    :briefcase: Building https://abdulfatah.dev – A simple portfolio to showcase my work <br>
+  - showcasing my ability to solve real-world problems and collaborate with the gl9obal developer community  
+  </samp>
+</p>
 
 ### Frontend
 <div style="display: flex; flex-direction: row; align-items: center;">
