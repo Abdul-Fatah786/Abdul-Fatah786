@@ -11,7 +11,7 @@
   - showcasing my ability to solve real-world problems and collaborate with the gl9obal developer community  
   </samp>
 </p>
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-fatah786&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="abdul-fatah786" />
 </p>
 
