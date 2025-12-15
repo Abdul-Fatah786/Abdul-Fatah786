@@ -3,21 +3,23 @@
     🔗 Abdul Fatah's LinkedIn
   </a>
 </p>
- <hr></hr>
+<hr></hr>
 <p align="center">
   <samp>
     Hi, I'm Abdul Fatah! 👋 <br>
     🔥 Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, React, Typescript,Node, ... <br>
+    : sparkles: Favorite Tech: JavaScript, React, Typescript, Node, ... <br>
     :email:	fatahburiro66@gmail.com <br> 
     Twitter: https://x.com/AbdulFa11955167<br>
     :briefcase: Building https://abdulfatah.dev – A simple portfolio to showcase my work <br>
-  - showcasing my ability to solve real-world problems and collaborate with the gl9obal developer community  
+    - showcasing my ability to solve real-world problems and collaborate with the global developer community  
   </samp>
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdul-fatah786" />
+  <img src="https://streak-stats.demolab.com?user=Abdul-Fatah786&theme=dark" alt="GitHub Streak Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-fatah786&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Fatah786&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
 </p>
