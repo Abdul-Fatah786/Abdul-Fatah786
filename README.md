@@ -16,7 +16,7 @@
   </samp>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-fatah786&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="abdul-fatah786" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=abdul-fatah786&theme=dark)
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-fatah786&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
